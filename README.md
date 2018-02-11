@@ -12,7 +12,7 @@ the back end api is hosted on [heroku](https://local-league.herokuapp.com/)
 - Heroku
 
 ### Entity Relationship Diagrams
-[  Version 1 ERDs]
+[Version 1 ERDs](https://github.com/skinnybuff/local-league/blob/build/erds/Local%20League%20ERD.pdf)
 ### User Stories
 As a user i want  CRUD functionality on all games so i can keep me records correct.
 
